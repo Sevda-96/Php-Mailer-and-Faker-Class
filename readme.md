@@ -17,9 +17,9 @@ Ek olarak gmail uygulama şifresi oluşturulması gerekir onun için de gerekli 
 - Turn on access
 This will solve my “SMTP Error: Could not authenticate” in PHPMailer error. 
 
-[](https://github.com/Sevda-96/Php-Mailer-and-Faker-Class/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1_1.JPG)
+![](https://github.com/Sevda-96/Php-Mailer-and-Faker-Class/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1_1.JPG)
 
-[](https://github.com/Sevda-96/Php-Mailer-and-Faker-Class/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1_2.JPG.png)
+![](https://github.com/Sevda-96/Php-Mailer-and-Faker-Class/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1_2.JPG.png)
 
 ## Kaynak
 - https://getcomposer.org/download/
