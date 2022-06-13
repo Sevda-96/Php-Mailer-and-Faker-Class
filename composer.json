@@ -1,0 +1,20 @@
+{
+    "name": "svdng/phpmailer",
+    "autoload": {
+        "psr-4": {
+            "Svdng\\Phpmailer\\": "App/"
+        }
+    },
+    "authors" :[
+        {
+            "name": "Sevda Engin",
+            "email": "svdngn@outlook.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "require-dev": {
+        "fakerphp/faker": "^1.19"
+    }
+}
